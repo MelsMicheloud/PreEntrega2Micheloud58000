@@ -1,0 +1,13 @@
+.CardItem{
+    width: 15%;
+    height: 40%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    border-color: bisque;
+    padding: 10px;
+    margin: 5px;
+    color:rgb(101, 183, 204);
+    font-size:20px;
+    width: 25%;  
+    
+}
